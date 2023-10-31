@@ -1,0 +1,148 @@
+﻿
+[
+    {
+        "food_name_en": "COMBO 1",
+        "food_name_vi": "COMBO 1",
+        "food_price": "169000"
+    },
+    {
+        "food_name_en": "",
+        "food_name_vi": "LÒNG GÀ NƯỚNG",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "BAKED RIBS",
+        "food_name_vi": "DẺ SƯỜN NƯỚNG",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "BEEF ROLL",
+        "food_name_vi": "BA CHỈ BÒ CUỘN KIM CHÂM",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "GRILLED SPICY SQUID",
+        "food_name_vi": "MỰC NƯỚNG SA TẾ",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "SEAFOOD HOT (SMALL)",
+        "food_name_vi": "LẨU HẢI SẢN (NHỎ)",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "COMBO 2",
+        "food_name_vi": "COMBO 2",
+        "food_price": "169000"
+    },
+    {
+        "food_name_en": "SCIENCE BOILING",
+        "food_name_vi": "LÒNG NƯỚNG CAY",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "GRILLED FROG",
+        "food_name_vi": "ẾCH NƯỚNG",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "BAKED BACON",
+        "food_name_vi": "BA CHỈ NƯỚNG",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "GRILLED SHRIMP",
+        "food_name_vi": "TÔM NƯỚNG",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "SEAFOOD HOT (SMALL)",
+        "food_name_vi": "LẨU HẢI SẢN (NHỎ)",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "COMBO 3",
+        "food_name_vi": "COMBO 3",
+        "food_price": "169000"
+    },
+    {
+        "food_name_en": "",
+        "food_name_vi": "LÒNG GÀ NƯỚNG",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "BAKED RIBS",
+        "food_name_vi": "DẺ SƯỜN NƯỚNG",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "BEEF ROLL",
+        "food_name_vi": "BA CHỈ BÒ CUỘN KIM CHÂM",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "SPICY OCTOPUS",
+        "food_name_vi": "BẠCH TUỘC NƯỚNG CAY",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "SEAFOOD HOT (SMALL)",
+        "food_name_vi": "LẨU HẢI SẢN (NHỎ)",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "SOJU",
+        "food_name_vi": "RƯỢU SOJU",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "VODKA",
+        "food_name_vi": "RƯỢU VODKA",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "TIGER CAN",
+        "food_name_vi": "TIGER LON",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "TIGER BOTTLE",
+        "food_name_vi": "TIGER CHAI",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "CRYSTAL TIGER CAN",
+        "food_name_vi": "TIGER BẠC CHAI",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "CRYSTAL HEINEKEN CAN",
+        "food_name_vi": "KEN BẠC LON",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "COCA/ SPRITE/ SERIES/ ENERGY",
+        "food_name_vi": "COCA/ SPRITE/ SUỐI/ TĂNG LỰC",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "REDBULL",
+        "food_name_vi": "BÒ BÚC",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "QUY NHON BEER",
+        "food_name_vi": "BIA QUY NHƠN",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "BIVINA BEER",
+        "food_name_vi": "BIA BIVINA",
+        "food_price": "NOT GIVEN"
+    },
+    {
+        "food_name_en": "STRONG BOW",
+        "food_name_vi": "STRONG BOW",
+        "food_price": "NOT GIVEN"
+    }
+]

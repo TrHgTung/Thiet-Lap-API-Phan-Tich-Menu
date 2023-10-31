@@ -1,0 +1,12 @@
+opencv-python
+numpy
+pillow
+onnxruntime
+shapely
+pyclipper
+networkx
+pandas
+flask
+unidecode
+symspellpy
+requests
